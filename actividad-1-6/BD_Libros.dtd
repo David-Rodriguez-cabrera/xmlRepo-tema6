@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!ELEMENT Libros (libro+)>
+
+<!ELEMENT libro (Cod_Libro,Titulo,Editorial,Edicion,ISBN,NumPaginas,Autores+)>
+<!-- Autores con un + porque puede que halla mas de un autor-->
+<!ELEMENT Cod_Libro (#PCDATA)>
+
+<!ELEMENT Titulo (#PCDATA)>
+
+<!ELEMENT Editorial (#PCDATA)>
+
+<!ELEMENT Edicion (#PCDATA)>
+
+<!ELEMENT ISBN (#PCDATA)>
+
+<!ELEMENT NumPaginas (#PCDATA)>
+
+<!ELEMENT Autores (autor)*>
+
+<!ELEMENT autor (Cod_Autor,Nombre,Apellidos,FechaNacimiento,nacionalidad+)>
+<!-- nacionalidad con un + porque puede que tenga doble nacionalidad-->
+<!ELEMENT Cod_Autor (#PCDATA)>
+
+<!ELEMENT Nombre (#PCDATA)>
+
+<!ELEMENT Apellidos (#PCDATA)>
+
+<!ELEMENT FechaNacimiento (#PCDATA)>
+
+<!ELEMENT nacionalidad (#PCDATA)>

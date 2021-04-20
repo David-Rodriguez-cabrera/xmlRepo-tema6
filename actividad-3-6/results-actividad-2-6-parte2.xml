@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<!DOCTYPE Libros SYSTEM "BD_Libros.dtd">
+<libro><Cod_Libro>8</Cod_Libro><Titulo>La cupula</Titulo><Editorial>Plaza &amp; Janes Editores</Editorial><Edicion>1</Edicion><ISBN>9788401337529</ISBN><NumPaginas>1136</NumPaginas><Autores><autor><Cod_Autor>8</Cod_Autor><Nombre>Stephen</Nombre><Apellidos>King</Apellidos><FechaNacimiento>21/09/1947</FechaNacimiento><nacionalidad>Espanola</nacionalidad></autor></Autores></libro>

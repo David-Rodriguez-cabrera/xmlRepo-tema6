@@ -1,0 +1,82 @@
+15:55:57.927  INFO  [lib BD_Libros] Library opened by Qizx 4.4p1
+15:55:57.950  INFO  [lib BD_Libros]  location C:\Users\Usuario\Desktop\1-Daw\Lenguaje-de-marcas\tema6\GrupoLibreriasXML\BD_Libros
+15:55:57.950  INFO  [lib BD_Libros]  document storage version=5, lastBId=13, BCount=12, maxA=502
+15:56:10.875  INFO  [lib BD_Libros] commit start BD_Libros (session 1)
+15:56:10.960  INFO  [lib BD_Libros] commit 2 on BD_Libros (session 1)
+15:56:11.015  INFO  [lib BD_Libros] commit 2 done
+15:56:11.015  INFO  [lib BD_Libros] commit end BD_Libros (session 1) -> state: [ 1 2 ][ 1 2 3 ]
+16:00:51.366  INFO  [lib BD_Libros] All sessions closed
+16:00:51.379  INFO  [lib BD_Libros] Sweeper stopped
+16:00:51.380  INFO  [lib BD_Libros] library closed 
+16:01:09.930  INFO  [lib BD_Libros] Library opened by Qizx 4.4p1
+16:01:09.930  INFO  [lib BD_Libros]  location C:\Users\Usuario\Desktop\1-Daw\Lenguaje-de-marcas\tema6\GrupoLibreriasXML\BD_Libros
+16:01:09.931  INFO  [lib BD_Libros]  document storage version=5, lastBId=17, BCount=16, maxA=502
+16:20:05.480  INFO  [lib BD_Libros] commit start BD_Libros (session 1)
+16:20:05.501  INFO  [lib BD_Libros] commit 3 on BD_Libros (session 1)
+16:20:05.619  INFO  [lib BD_Libros] commit 3 done
+16:20:05.620  INFO  [lib BD_Libros] commit end BD_Libros (session 1) -> state: [ 1 2 ][ 1 2 3 4 ]
+16:20:05.621  INFO  [lib BD_Libros] sweeper deleted 1/1 metadocs: 15
+16:42:14.630  INFO  [lib BD_Libros] commit start BD_Libros (session 1)
+16:42:14.649  INFO  [lib BD_Libros] commit 4 on BD_Libros (session 1)
+16:42:14.710  INFO  [lib BD_Libros] commit 4 done
+16:42:14.710  INFO  [lib BD_Libros] commit end BD_Libros (session 1) -> state: [ 1 2 3 ][ 1 2 3 4 5 ]
+16:42:14.710  INFO  [lib BD_Libros] sweeper deleted 1/1 docs: 14 in ms 0.059
+16:42:14.710  INFO  [lib BD_Libros] sweeper deleted 1/1 metadocs: 18
+16:43:17.525  INFO  [lib BD_Libros] commit start BD_Libros (session 1)
+16:43:17.546  INFO  [lib BD_Libros] commit 5 on BD_Libros (session 1)
+16:43:17.597  INFO  [lib BD_Libros] commit 5 done
+16:43:17.597  INFO  [lib BD_Libros] sweeper deleted 1/1 docs: 20 in ms 0.0455
+16:43:17.597  INFO  [lib BD_Libros] commit end BD_Libros (session 1) -> state: [ 1 2 3 4 ][ 1 2 3 4 5 6 ]
+16:43:17.597  INFO  [lib BD_Libros] sweeper deleted 1/1 metadocs: 21
+16:44:07.087  INFO  [lib BD_Libros] commit start BD_Libros (session 1)
+16:44:07.110  INFO  [lib BD_Libros] commit 6 on BD_Libros (session 1)
+16:44:07.162  INFO  [lib BD_Libros] commit 6 done
+16:44:07.162  INFO  [lib BD_Libros] sweeper deleted 1/1 docs: 24 in ms 0.0614
+16:44:07.162  INFO  [lib BD_Libros] commit end BD_Libros (session 1) -> state: [ 1 2 3 4 5 ][ 1 2 3 4 5 6 7 ]
+16:44:07.162  INFO  [lib BD_Libros] sweeper deleted 1/1 metadocs: 25
+16:46:19.804  INFO  [lib BD_Libros] commit start BD_Libros (session 1)
+16:46:19.806  INFO  [lib BD_Libros] commit 7 on BD_Libros (session 1)
+16:46:19.840  INFO  [lib BD_Libros] commit 7 done
+16:46:19.840  INFO  [lib BD_Libros] sweeper deleted 1/1 docs: 28 in ms 0.0461
+16:46:19.840  INFO  [lib BD_Libros] commit end BD_Libros (session 1) -> state: [ 1 2 3 4 5 ][ 1 2 3 4 5 6 7 ]
+16:46:19.840  INFO  [lib BD_Libros] sweeper deleted 1/1 metadocs: 29
+16:46:31.201  INFO  [lib BD_Libros] commit start BD_Libros (session 1)
+16:46:31.242  INFO  [lib BD_Libros] commit 8 on BD_Libros (session 1)
+16:46:31.299  INFO  [lib BD_Libros] commit 8 done
+16:46:31.299  INFO  [lib BD_Libros] commit end BD_Libros (session 1) -> state: [ 1 2 3 4 5 6 ][ 1 2 3 4 5 6 7 8 ]
+16:46:44.715  INFO  [lib BD_Libros] commit start BD_Libros (session 1)
+16:46:44.736  INFO  [lib BD_Libros] commit 9 on BD_Libros (session 1)
+16:46:44.795  INFO  [lib BD_Libros] commit 9 done
+16:46:44.795  INFO  [lib BD_Libros] sweeper deleted 1/1 docs: 34 in ms 0.0483
+16:46:44.795  INFO  [lib BD_Libros] commit end BD_Libros (session 1) -> state: [ 1 2 3 4 5 6 7 ][ 1 2 3 4 5 6 7 8 9 ]
+16:46:44.795  INFO  [lib BD_Libros] sweeper deleted 1/1 metadocs: 35
+16:50:42.069  INFO  [lib BD_Libros] commit start BD_Libros (session 1)
+16:50:42.089  INFO  [lib BD_Libros] commit 10 on BD_Libros (session 1)
+16:50:42.134  INFO  [lib BD_Libros] commit 10 done
+16:50:42.134  INFO  [lib BD_Libros] sweeper deleted 1/1 docs: 38 in ms 0.0518
+16:50:42.134  INFO  [lib BD_Libros] sweeper deleted 1/1 metadocs: 39
+16:50:42.135  INFO  [lib BD_Libros] commit end BD_Libros (session 1) -> state: [ 1 2 3 4 5 6 7 8 ][ 1 2 3 4 5 6 7 8 9 a ]
+16:50:42.162  INFO  [lib BD_Libros] start auto compaction of 10 M segments to 000B: 0001 0002 0003 0004 0005 0006 0007 0008 0009 000A
+16:50:42.171  INFO  [lib BD_Libros] compaction done -> state: [ 1 2 3 4 5 6 7 8 ][ b ]
+16:51:11.887  INFO  [lib BD_Libros] commit start BD_Libros (session 1)
+16:51:11.909  INFO  [lib BD_Libros] commit 12 on BD_Libros (session 1)
+16:51:11.953  INFO  [lib BD_Libros] commit 12 done
+16:51:11.953  INFO  [lib BD_Libros] commit end BD_Libros (session 1) -> state: [ 1 2 3 4 5 6 7 8 9 ][ b c ]
+16:51:11.953  INFO  [lib BD_Libros] sweeper deleted 1/1 docs: 42 in ms 0.0437
+16:51:11.953  INFO  [lib BD_Libros] sweeper deleted 1/1 metadocs: 43
+16:51:11.982  INFO  [lib BD_Libros] sweeper deleted M segments: 0001 to 000A
+16:51:53.416  INFO  [lib BD_Libros] All sessions closed
+16:51:53.441  INFO  [lib BD_Libros] Sweeper stopped
+16:51:53.465  INFO  [lib BD_Libros] library closed 
+16:52:28.531  INFO  [lib BD_Libros] Library opened by Qizx 4.4p1
+16:52:28.531  INFO  [lib BD_Libros]  location C:\Users\Usuario\Desktop\1-Daw\Lenguaje-de-marcas\tema6\GrupoLibreriasXML\BD_Libros
+16:52:28.532  INFO  [lib BD_Libros]  document storage version=5, lastBId=49, BCount=33, maxA=502
+16:54:13.519  INFO  [lib BD_Libros] commit start BD_Libros (session 1)
+16:54:13.590  INFO  [lib BD_Libros] commit 13 on BD_Libros (session 1)
+16:54:13.658  INFO  [lib BD_Libros] commit 13 done
+16:54:13.659  INFO  [lib BD_Libros] commit end BD_Libros (session 1) -> state: [ 1 2 3 4 5 6 7 8 9 a ][ b c d ]
+16:54:13.659  INFO  [lib BD_Libros] sweeper deleted 1/1 docs: 46 in ms 0.5236
+16:54:13.659  INFO  [lib BD_Libros] sweeper deleted 1/1 metadocs: 47
+16:54:57.154  INFO  [lib BD_Libros] All sessions closed
+16:54:57.172  INFO  [lib BD_Libros] Sweeper stopped
+16:54:57.173  INFO  [lib BD_Libros] library closed 

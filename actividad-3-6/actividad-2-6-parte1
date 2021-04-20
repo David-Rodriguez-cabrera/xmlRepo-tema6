@@ -1,0 +1,2 @@
+for $Libros in doc("BD_Libros.xml")/Libros
+return $Libros
